@@ -1,4 +1,5 @@
 # Repliement-prot-MC
+
 Repliement d'un modèle simplifié de protéine par un algorithme de Monte-Carlo
 
 ## Environnement
@@ -13,7 +14,7 @@ Puis, pour activer cet environnement de travail, tapez la commande :
 
 ## Lancement du programme
 
-Pour lancer le programme, placez vous dans le bon répertoire où se situe le programme python, puis entrez la commande suivante sur votre invité de commande :
+Pour lancer le programme, placez vous dans le bon répertoire où se situe le programme python, puis entrez la commande suivante sur votre invité de commandes :
 
  > $ **python projet.py sequence_proteine temperature**
 
@@ -26,7 +27,7 @@ temperature : la température du repliement que vous souhaitez
 
  > $ **python projet.py TGLMFWGVYGATT 0.3**
 
-En sortie sur votre invité de commande, vous obtiendrez toutes les conformations de protéine réalisées codée en ASCII. De plus, une fenêtre s'ouvrira avec le graphique de la variation des énergies des conformations de protéine.
+En sortie sur votre invité de commande, vous obtiendrez toutes les conformations de protéine réalisées codées en ASCII. De plus, une fenêtre s'ouvrira avec le graphique de la variation des énergies des conformations.
 
 ## Aide
 
@@ -35,4 +36,3 @@ Si vous avez besoin d'aide, tapez la commande suivante :
  > $ **python projet.py -h**
 
 Vous obtiendez une aide pour renseigner correctement les arguments de séquence et de température.
-
