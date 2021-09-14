@@ -25,7 +25,7 @@ if len(sys.argv) != 3:
 
 
 def traduction(proteine):
-    """Traduction de la séquence protéique en acides aminés en séquence HP"""
+    """Traduction de la séquence protéique en acides aminés en séquence HP."""
     aa_hydrophobe = ["A", "I", "L", "M", "F", "W", "V", "Y"]
     proteine_traduite = []
     for i in proteine:
