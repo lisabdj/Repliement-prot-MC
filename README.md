@@ -5,7 +5,7 @@ Repliement d'un modèle simplifié de protéine par un algorithme de Monte-Carlo
 
 Tout d'abord, il faut installer l'environnement de travail sur votre machine grâce à la commande suivante entrée dans votre invité de commandes : 
 
-  $ conda env create --file env-projet.yml
+ > $ conda env create --file env-projet.yml
 
 Puis, pour activer cet environnement de travail, tapez la commande : 
 
