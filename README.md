@@ -19,8 +19,11 @@ Pour lancer le programme, placez vous dans le bon répertoire où se situe le pr
  > $ **python projet.py sequence_proteine temperature**
 
 avec :
+
 projet.py : le nom du programme python du projet
+
 sequence_proteine : la séquence protéique dont vous souhaitez connaître son repliement, en code à une lettre en majuscule
+
 temperature : la température du repliement que vous souhaitez
 
 ## Exemple de lancement
